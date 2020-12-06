@@ -1,0 +1,56 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\bin\Debug\webtab.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\bin\Debug\webtab.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\obj\x86\Debug\webtab.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\obj\x86\Debug\webtab.usr_sayfa.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\obj\x86\Debug\webtab.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\obj\x86\Debug\webtab.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\webtab\obj\x86\Debug\webtab.pdb
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\webtab\obj\x86\Debug\webtab.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\webtab\obj\x86\Debug\webtab.frm_web.resources
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\webtab\bin\Debug\ActiveButtons.dll
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\webtab\bin\Debug\ActiveButtons.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\bin\Debug\Web Browser.exe
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\bin\Debug\Web Browser.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\bin\Debug\ActiveButtons.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\webtab.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\webtab.frm_web.resources
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\webtab.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\webtab.usr_sayfa.resources
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\webtab.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\Web Browser.exe
+C:\Users\mustafa\Desktop\Yeni klasör\webtab\obj\x86\Debug\Web Browser.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\Web Browser.exe
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\Web Browser.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\bin\Debug\Web Browser.exe
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\bin\Debug\Web Browser.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\bin\Debug\ActiveButtons.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.frm_web.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.usr_sayfa.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.csproj.GenerateResource.Cache
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\Web Browser.exe
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\Web Browser.pdb
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.csprojResolveAssemblyReference.cache
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.frm_web.resources
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.Properties.Resources.resources
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.usr_sayfa.resources
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\obj\x86\Debug\webtab.csproj.GenerateResource.Cache
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\bin\Debug\Web Browser.exe.config
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\bin\Debug\Web Browser.exe
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\bin\Debug\Web Browser.pdb
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Goturulecekler\Yeni klasör\C sharp\webtab\bin\Debug\ActiveButtons.pdb
+C:\Users\musta\Desktop\webtab\bin\Debug\Web Browser.exe.config
+C:\Users\musta\Desktop\webtab\bin\Debug\Web Browser.exe
+C:\Users\musta\Desktop\webtab\bin\Debug\Web Browser.pdb
+C:\Users\musta\Desktop\webtab\bin\Debug\ActiveButtons.pdb
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.frm_web.resources
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.Properties.Resources.resources
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.usr_sayfa.resources
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\webtab.csproj.CopyComplete
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\Web Browser.exe
+C:\Users\musta\Desktop\webtab\obj\x86\Debug\Web Browser.pdb
